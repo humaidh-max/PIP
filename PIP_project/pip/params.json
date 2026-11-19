@@ -1,0 +1,10 @@
+{
+  "base_radius": 45.0, "platform_radius": 38.0,
+  "base_pair_gap_deg": 28.0, "platform_pair_gap_deg": 32.0,
+  "horn_mm": 18.0, "rod_mm": 50.0,
+  "servo_limit_deg": 70.0, "servo_rate_dps": 400.0,
+  "body_radius": 62.0, "body_height": 60.0, "turntable_thickness": 6.0,
+  "plate_thickness": 4.0, "servo_w": 12.0, "servo_l": 23.0, "servo_h": 24.0,
+  "camera_w": 8.5, "camera_h": 8.5, "mic_hole_d": 1.6, "mic_spacing": 30.0,
+  "speaker_d": 40.0, "antenna_len": 60.0, "antenna_spacing": 50.0
+}
